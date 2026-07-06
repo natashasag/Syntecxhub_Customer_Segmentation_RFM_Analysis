@@ -202,7 +202,8 @@ These filters allow users to explore customer behavior dynamically.
 
 > Add your dashboard screenshot below after uploading it.
 
-<img width="1600" height="916" alt="1000324060" src="https://github.com/user-attachments/assets/131fcebc-08f9-45d0-83b2-af146a2674ff" />
+<img width="1272" height="742" alt="Screenshot 2026-07-06 200903" src="https://github.com/user-attachments/assets/7dae6ecd-5d1c-4adb-be68-bc2c5e45b21c" />
+
 
 ---
 
